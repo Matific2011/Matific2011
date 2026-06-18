@@ -3,11 +3,8 @@
 - 🚴‍♂️ _Gosto de andar de bike_
 - ⚽ Jogo bola
 - 📖 estudando 1ºano/mkt
-- 🤔 gosto 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 gosto de computação
+- 🚜 jogo Farming Simulator
 
 ![](https://media1.tenor.com/m/NAcu_MppLJgAAAAd/side-eye.gif)
 
