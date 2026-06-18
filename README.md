@@ -1,6 +1,6 @@
 ## opa rpz
 
-- 🚴‍♂️ Gosto de andar de bike_
+- 🚴‍♂️ _Gosto de andar de bike_
 - ⚽ Jogo bola
 - 📖 estudando 1ºano/mkt
 - 🤔 gosto 
